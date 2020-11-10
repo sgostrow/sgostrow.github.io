@@ -1,2 +1,3 @@
 # sgostrow.github.io
-Personal website
+http://sgostrow.github.io
+My personal website
