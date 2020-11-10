@@ -1,2 +1,2 @@
-# sonjaostrow.github.io
+# sgostrow.github.io
 Personal website
